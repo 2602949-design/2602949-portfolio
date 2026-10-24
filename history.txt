@@ -1,0 +1,16 @@
+* dd0d0ee Add footer from teammate
+* fa62d35 Add README file
+*   78946c0 Change title on main
+|\  
+| * 2ee33a8 Add second develop branch change
+| * d9f4bfa Add first develop branch change
+* | 72ae82d Add main branch change
+|/  
+* ab109a6 Complete Task 2 changes
+* ee6db5c Add log files to gitignore
+* 2f3e6f6 Add CSS and JavaScript files
+* 8e5102d Delete about file
+* a51db69 Rename notes to about
+* 9b0d813 Add Notes File
+* ce46b4b I live in Islamabad
+* 9ba4aff Pakistan Zindabad
